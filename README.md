@@ -23,12 +23,12 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="48" height="48" alt="typescript" />
       <br>TypeScript
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" width="48" height="48" alt="sass" />
       <br>SASS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" height="48" alt="nodejs" />
       <br>NodeJS
@@ -41,8 +41,6 @@
       <img src="https://logowik.com/content/uploads/images/flutter5786.jpg" height="48" alt="flutter" />
       <br>Flutter
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="48" alt="python" />
       <br>Python
@@ -51,6 +49,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" height="48" alt="golang" />
       <br>Golang
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/id/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" height="48" alt="java" />
       <br>Java
@@ -59,8 +59,6 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" height="48" alt="c++" />
       <br>C++
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png" height="48" alt="vb6" />
       <br>VB Classic
@@ -122,12 +120,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="48" alt="stelve" />
         <br>Stelve
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" height="48" alt="bootstrap" />
         <br>Bootstrap
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="48" alt="tailwind" />
         <br>Tailwind
@@ -140,8 +138,6 @@
         <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="48" alt="laravel" />
         <br>Laravel
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <a href="#ubuntu">
           <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48"
@@ -149,8 +145,6 @@
         </a>
         <br>ExpressJS
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <a href="#ubuntu">
           <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48"
@@ -158,6 +152,8 @@
         </a>
         <br>Ubuntu
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <a href="#git">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"

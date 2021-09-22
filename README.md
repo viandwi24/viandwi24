@@ -5,10 +5,10 @@
 - 📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
 - 👨‍💻 You can contact me on `viandwicyber@gmail.com`
 
-<h3 align="left">Languages :</h3
+<h3 align="left">Languages :</h3>
 <table align="center">
   <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#html5">
         <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
       </a>
@@ -45,7 +45,6 @@
       <br>Nuxt JS
     </td>      
   </tr>
-  
   <tr>
      <td align="center" width="96">
       <a href="#nuxtjs" >
@@ -71,20 +70,20 @@
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
     <td align="center" width="96">
         <a href="#alpinejs">
             <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
                 height="48" alt="alpinejs" />
         </a>
         <br>Alpine JS
-    </td>   
+    </td>
+    <td align="center" width="96">
+        <a href="#alpinejs">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="48"
+                height="48" alt="stelvejs" />
+        </a>
+        <br>Stelve JS
+    </td>
   </tr>
    <tr>
       <td align="center" width="96">
@@ -92,12 +91,6 @@
         <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
-    </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
     </td>
       <td align="center" width="96">
       <a href="#git" >

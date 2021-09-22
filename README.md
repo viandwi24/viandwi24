@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang and Python
 - 📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
 - 👨‍💻 You can contact me on `viandwicyber@gmail.com`
-<h3 align="left">Languages :</h3>
+<h3 align="center">Languages</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -80,7 +80,7 @@
 </table>
 
 
-<h3 align="left">Database :</h3>
+<h3 align="center">Database</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -104,7 +104,7 @@
 
 
 
-<h3 align="left">Framework & Tools :</h3>
+<h3 align="center">Framework & Tools</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">

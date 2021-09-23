@@ -139,42 +139,31 @@
         <br>Laravel
       </td>
       <td align="center" width="96">
-        <a href="#ubuntu">
-          <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48"
-            alt="expressjs" />
-        </a>
+        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="48" height="48" alt="expressjs" />
         <br>ExpressJS
       </td>
       <td align="center" width="96">
-        <a href="#ubuntu">
-          <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48"
-            alt="ubuntu" />
-        </a>
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
         <br>Ubuntu
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <a href="#git">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"
-            width="48" height="48" alt="Git" />
-        </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="96">
-        <a href="#vscode">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48"
-            height="48" alt="vscode" />
-        </a>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="vscode" />
         <br>VS Code
       </td>
       <td align="center" width="96">
-        <a href="#postman">
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="postman" />
-        </a>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="postman" />
         <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
+        <br>Docker
       </td>
     </tr>
   </table>
-
 </details>

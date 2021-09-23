@@ -143,11 +143,15 @@
         <br>ExpressJS
       </td>
       <td align="center" width="96">
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-        <br>Ubuntu
+        <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="48" height="48" alt="webpack" />
+        <br>Webpack
       </td>
     </tr>
     <tr>
+      <td align="center" width="96">
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <br>Ubuntu
+      </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
         <br>Git

@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on Freelance Programmer
 - 🌱 I’m currently learning Golang and Python
+- 🪶 Blockchain Enthusiast
 - 📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
 - 👨‍💻 You can contact me on `viandwicyber@gmail.com`
 <h3 align="center">Languages</h3>

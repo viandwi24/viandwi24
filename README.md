@@ -1,11 +1,38 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=viandwi24&show_icons=true)
+## Hi 👋 I am viandwi24!
+
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 - 🔭 I’m currently working on Freelance as Web Dev Programmer
-- 🌱 I’m currently learning Golang and Python
+- 🌱 I’m currently learning Golang, Python & Rust
 - 🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
-- 🪶 Blockchain Enthusiast
-- 📫 Reach me on Instagram `(fiandwi_24)` or Facebook `(@viandwi24)`
-- 👨‍💻 You can contact me on `viandwicyber@gmail.com`
+- ✨ Web3 Blockchain & Pixel Arts Enthusiast
+
+---
+
+<h3 align="center">Reach Me</h3>
+<p align="center">
+<img alt="Linkedin Badge" src="https://img.shields.io/badge/-viandwi24-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/viandwi24)](https://www.linkedin.com/in/viandwi24" />
+<img alt="Facebook Badge" src="https://img.shields.io/badge/-viandwi24-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/viandwi24)](https://www.facebook.com/viandwi24" />
+<img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwi24-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viandwi_24)](https://www.instagram.com/viandwi_24" />
+<img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwicyber@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@viandwicyber@gmail.com)](mailto:mail@viandwicyber@gmail.com" />
+</p>
+  
+ 
+<h3 align="center">Stats</h3>
+<p align = "center">
+  <img alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=viandwi24&show_icons=true&theme=radical" height="160px" />
+  <img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viandwi24&layout=compact&theme=chartreuse-dark&langs_count=8)"  height="160px" />
+</p>
+
 <h3 align="center">Languages</h3>
 <table align="center">
   <tr>
@@ -77,11 +104,17 @@
       <br>PHP
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" height="48" alt="Rust" />
+      <br>Rust
+    </td>
+  </tr>
 </table>
 
 <details> 
   <summary>See the details of the Database and Framework that I use</summary>
-  <h3 align="center">Database</h3>
+  <h3 align="center">Database & API</h3>
   <table align="center">
     <tr>
       <td align="center" width="96">
@@ -99,6 +132,20 @@
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="firebase" />
         <br>Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="graphql" />
+        <br>Graphql
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="48" height="48" alt="redis" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="mariadb" />
+        <br>Mariadb
       </td>
     </tr>
   </table>
@@ -169,6 +216,12 @@
       <td align="center" width="96">
         <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="48" height="48" alt="docker" />
         <br>Docker
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" width="48" height="48" alt="Phaser.js" />
+        <br>Phaser.js
       </td>
     </tr>
   </table>

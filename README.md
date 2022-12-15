@@ -1,5 +1,6 @@
 ## Hi 👋 I am viandwi24!
 
+<img alt="my room" src="https://raw.githubusercontent.com/viandwi24/viandwi24/main/assets/myroom.jpg" width="100%" />
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -113,7 +114,7 @@
 </table>
 
 <details> 
-  <summary>See the details of the Database and Framework that I use</summary>
+  <summary align="center">See the details of the Database and Framework that I use</summary>
   <h3 align="center">Database & API</h3>
   <table align="center">
     <tr>

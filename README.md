@@ -25,7 +25,7 @@
 <img alt="Linkedin Badge" src="https://img.shields.io/badge/-viandwi24-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/viandwi24)](https://www.linkedin.com/in/viandwi24" />
 <img alt="Facebook Badge" src="https://img.shields.io/badge/-viandwi24-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/viandwi24)](https://www.facebook.com/viandwi24" />
 <img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwi24-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viandwi_24)](https://www.instagram.com/viandwi_24" />
-<img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwicyber@gmail.com-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@viandwicyber@gmail.com)](mailto:mail@viandwicyber@gmail.com" />
+<img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwi24@pm.me-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@viandwi24@pm.me)](mailto:mail@viandwi24@pm.me" />
 </p>
   
  

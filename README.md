@@ -22,7 +22,7 @@
 
 <h3 align="center">Reach Me</h3>
 <p align="center">
-<img alt="Linkedin Badge" src="https://img.shields.io/badge/-viandwi24-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/viandwi24)](https://www.linkedin.com/in/viandwi24" />
+<a href="https://www.linkedin.com/in/viandwi24" target="_blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-viandwi24-cyan?style=flat-square&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/viandwi24)](https://www.linkedin.com/in/viandwi24" /></a>
 <img alt="Facebook Badge" src="https://img.shields.io/badge/-viandwi24-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/viandwi24)](https://www.facebook.com/viandwi24" />
 <img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwi24-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/viandwi_24)](https://www.instagram.com/viandwi_24" />
 <img alt="Instagram Badge" src="https://img.shields.io/badge/-viandwi24@pm.me-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@viandwi24@pm.me)](mailto:mail@viandwi24@pm.me" />

@@ -32,7 +32,8 @@
 <h3 align="center">Stats</h3>
 <p align = "center">
   <img alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=viandwi24&show_icons=true&theme=radical" height="160px" />
-  <img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viandwi24&layout=compact&theme=chartreuse-dark&langs_count=8)"  height="160px" />
+  <img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viandwi24&theme=radical&layout=compact"  height="160px" />
+<!--   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=viandwi24"  height="160px" /> -->
 </p>
 
 <h3 align="center">Languages</h3>

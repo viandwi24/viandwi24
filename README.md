@@ -1,9 +1,13 @@
 ## Hi 👋 I am viandwi24!
 
 <img alt="my room" src="https://raw.githubusercontent.com/viandwi24/viandwi24/main/assets/myroom.jpg" width="100%" />
-<p align="center">
-  <a href="https://viandwi24.site/" type="_blank">viandwi24.site</a>
-  <a href="https://linktr.ee/viandwi24" type="_blank">linktree</a>
+<p>
+  <div align="center">
+    <a href="https://viandwi24.site/" type="_blank">viandwi24.site</a>
+  </div>
+  <div align="center">
+    <a href="https://linktr.ee/viandwi24" type="_blank">linktree</a>
+  </div>
 </p>
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)

@@ -3,9 +3,10 @@
 <img alt="my room" src="https://raw.githubusercontent.com/viandwi24/viandwi24/main/assets/myroom.jpg" width="100%" />
 <p>
   <div align="center">
+    <a href="https://viandwi24.com/" type="_blank">viandwi24.com</a>
+    <span>&nbsp;|&nbsp;</span>
     <a href="https://viandwi24.site/" type="_blank">viandwi24.site</a>
-  </div>
-  <div align="center">
+    <span>&nbsp;|&nbsp;</span>
     <a href="https://linktr.ee/viandwi24" type="_blank">linktree</a>
   </div>
 </p>

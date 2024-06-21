@@ -1,6 +1,6 @@
 ## Hi 👋 I am viandwi24!
 
-<img alt="my room" src="https://raw.githubusercontent.com/viandwi24/viandwi24/main/assets/myroom.jpg" width="100%" />
+<img alt="my room" src="https://raw.githubusercontent.com/viandwi24/viandwi24/main/assets/backpanel_viandwi24_2024.jpg" width="100%" />
 <p>
   <div align="center">
     <a href="https://viandwi24.com/" type="_blank">viandwi24.com</a>

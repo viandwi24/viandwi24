@@ -41,11 +41,3 @@
   <img alt="my top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viandwi24&theme=radical&layout=compact"  height="160px" />
 <!--   <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=viandwi24"  height="160px" /> -->
 </p>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" width="48" height="48" alt="Phaser.js" />
-        <br>Phaser.js
-      </td>
-    </tr>
-  </table>
-</details>

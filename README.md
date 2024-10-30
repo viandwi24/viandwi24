@@ -9,21 +9,11 @@
   </div>
 </p>
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 - 🔭 I’m currently working on Freelance as Web Dev Programmer
 - 🌱 I’m currently learning Golang, Python & Rust
 - 🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
 - ✨ Web3 Blockchain & Pixel Arts Enthusiast
-
+- 💙 My Lovely Partner: <a href="https://github.com/amalyawww" type="_blank">@amalyawww</a> 💙
 ---
 
 <h3 align="center">Reach Me</h3>

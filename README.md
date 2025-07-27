@@ -13,7 +13,6 @@
 - 🌱 I’m currently learning Golang, Python & Rust
 - 🎓 I’m currently studying at the university "Surabaya State University" (Indonesia)
 - ✨ Web3 Blockchain & Pixel Arts Enthusiast
-- 💙 My Lovely Partner: <a href="https://github.com/amalyawww" type="_blank">@amalyawww</a> 💙
 ---
 
 <h3 align="center">Reach Me</h3>
